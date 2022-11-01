@@ -1,0 +1,22 @@
+body{
+
+h2 {
+text-align: center;
+color: #ea3c53}
+
+p {
+  text-align: center;
+  color: #5b33ff
+}
+
+em strong {
+color: #5b33ff;
+}
+
+.marcatexto {
+	box-shadow: 15px 0 0 0 #000, -5px 0 0 0 #000;
+	background: #000;
+	display: inline;
+	padding: 3px 0 !important;
+	position: relative;
+}
